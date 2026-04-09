@@ -47,4 +47,4 @@ Passos
 
 
 ## Melhorias Futuras (POO)
-Este projeto pode ser evoluído aplicando conceitos de Programação Orientada a Objetos
+Este projeto vai ser evoluido futuramente aplicando conceitos de Programação Orientada a Objetos
