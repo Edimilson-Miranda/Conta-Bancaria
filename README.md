@@ -19,7 +19,7 @@ O objetivo principal desse projeto é treinar a lógica em programação procedu
 ## Como funciona
 O sistema apresenta um menu interativo no console:
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 O usuário escolhe uma opção digitando um número. O programa continua em execução até que a opção 4 (Sair) seja selecionada.
 
